@@ -9,3 +9,5 @@ $ node server.js
 ```
 
 Navigate to http://localhost:8081/scrape and see what happens.
+
+The results goes to output.json 
